@@ -36,4 +36,5 @@ tinggal import dan pelajari cara pakai package nya.
 ```
 Ihsanunot ^ Dart 3.0
 Flutter 3.0 - JDK 20.
+(testing_andro_studio)
 ```
